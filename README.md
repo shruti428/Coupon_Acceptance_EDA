@@ -71,10 +71,13 @@ Overall acceptance rate: **~74%** — the highest of all coupon types and the ea
 2. **Extend expiration windows** — 1-day coupons consistently outperform 2-hour coupons. Default to longer windows where operationally feasible.
 3. **Weather-aware delivery** — Sunny-day delivery yields measurably better acceptance.
 4. **Segment bar coupon targeting** — Prioritize frequent bar-goers (3+ visits/month) who are over 25 and traveling without children. delivery — Limit bar coupons to drivers who visit bars frequently and are not traveling with children.
-5. Use modeling approaches to identify strong predictors of acceptance rate 
+5. Use modeling approaches to identify strong predictors of acceptance rate
 
-Repository Contents
-├── Coupon_Acceptance_EDA.ipynb      
+## Repository Contents
+```
+├── Coupon_Acceptance_EDA.ipynb   # Jupyter notebook with full analysis
 ├── data/
-│   └── coupons.csv     
-└── README.md         
+│   └── coupons.csv               # Raw survey data
+└── README.md                     # Project overview
+```
+
