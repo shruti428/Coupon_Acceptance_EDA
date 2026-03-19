@@ -44,7 +44,7 @@ However, certain segments are far more likely to accept:
 
 ### Carry Out & Take Away Coupons
 
-Overall acceptance rate: **~74%** — the highest of all coupon types and the easiest win.
+Overall acceptance rate: **~74%**.
 
 **Factors that increase acceptance:**
 
